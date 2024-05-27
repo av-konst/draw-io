@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T08:41:17.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.869 YaBrowser/24.1.3.869 (corp) Yowser/2.5 Safari/537.36" etag="WN_xgkKnayv0BGavlXSN" version="24.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T11:14:09.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.869 YaBrowser/24.1.3.869 (corp) Yowser/2.5 Safari/537.36" etag="XJZSt4cie6emQSyxb2vn" version="24.4.5" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="1272" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sLNg0OkUtY8-LLzGpT6A-48" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-837.5" width="620" height="837.5" as="geometry" />
+        </mxCell>
         <mxCell id="sLNg0OkUtY8-LLzGpT6A-28" value="Обмен сообщениями между клиентами и сторонними приложениями" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-370" width="440" height="325" as="geometry" />
+          <mxGeometry x="360" y="-370" width="320" height="325" as="geometry" />
         </mxCell>
         <mxCell id="sLNg0OkUtY8-LLzGpT6A-27" value="Рабо&lt;span style=&quot;background-color: initial;&quot;&gt;та с БД&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-810" width="440" height="385" as="geometry" />
+          <mxGeometry x="360" y="-810" width="320" height="385" as="geometry" />
         </mxCell>
         <mxCell id="7c3789c024ecab99-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=0;shadow=0;comic=0;" parent="1" vertex="1">
           <mxGeometry x="820.0000000000002" y="-680" width="100" height="70" as="geometry" />
@@ -56,6 +59,12 @@
             <mxPoint x="480" y="-410" as="sourcePoint" />
             <mxPoint x="530" y="-460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sLNg0OkUtY8-LLzGpT6A-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sLNg0OkUtY8-LLzGpT6A-46" value="Internal VLAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
